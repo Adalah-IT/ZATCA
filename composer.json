@@ -1,5 +1,5 @@
 {
-    "name": "salla/zatca",
+    "name": "adalah-it/zatca",
     "description": "A helper to generate the QR code and signed it for ZATCA e-invoicing",
     "type": "library",
     "keywords": [
